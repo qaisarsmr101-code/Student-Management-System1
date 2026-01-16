@@ -58,6 +58,11 @@ table 50140 "Supplier Management"
         }
         field(14; "Refrence Commapny"; Text[10])
         {
+
+            DataClassification = CustomerContent;
+        }
+        field(15; "Refrence Code"; Text[10])
+        {
             DataClassification = CustomerContent;
         }
 
