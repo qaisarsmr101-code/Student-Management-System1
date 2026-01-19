@@ -4,7 +4,7 @@ page 50142 "Supplier List"
     SourceTable = Supplier;
     ApplicationArea = All;
     UsageCategory = Lists;
-    Caption = 'Supplier List';
+    Caption = 'Supplier Lists';
 
     layout
     {
